@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.22.1)
+project("scannerengine")
+add_library(scannerengine SHARED ScannerEngine.cpp)
+find_library(log-lib log)
+target_link_libraries(scannerengine ${log-lib})
