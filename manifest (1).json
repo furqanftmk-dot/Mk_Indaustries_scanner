@@ -1,0 +1,13 @@
+{
+  "background_color": "#03060a",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Mkscanar",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Mkscanar",
+  "start_url": "/",
+  "theme_color": "#03060a",
+  "id": "com.mkindustries.scanar",
+  "description": "High-speedscanar"
+}
